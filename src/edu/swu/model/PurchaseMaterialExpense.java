@@ -1,4 +1,4 @@
-package model;
+package edu.swu.model;
 
 public class PurchaseMaterialExpense {
 	
